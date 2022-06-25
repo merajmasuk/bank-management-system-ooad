@@ -1,2 +1,6 @@
 # elipse
-.project
+*.project
+
+# locking
+*.lck
+*.lock
