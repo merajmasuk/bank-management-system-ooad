@@ -3,7 +3,7 @@ Made with Papyrus SysML from Eclipse Marketplace
 ## How to setup ##
 1. Open Eclipse
 2. Help > Eclipse Marketplace
-3. Search "Papyrus SysML" and click Install
+3. Search for "Papyrus SysML" and click Install
 4. Click agree and then click Finish.
 5. Wait for the software to be downloaded and installed. We may need to restart Eclipse after install.
 
